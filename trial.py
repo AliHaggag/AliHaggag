@@ -1,10 +1,4 @@
 students = {
-"ahmed":{
-    "age":"35",
-    "gender":"male",
-    "length":"190",
-    "weight":"80"
-},
 "ali":{
     "age":"40",
     "gender":"male",
